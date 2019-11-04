@@ -21,5 +21,5 @@ pip3 install pafy
 pip3 install humanize
 pip3 install null
 pkg install apk-tool
-git clone https://github.com/ao2499xm5/non
+git clone https://github.com/toonza851/testbot.git
 cd non && python3 mn.py
